@@ -12,7 +12,7 @@ When I'm not diving into datasets, you can find me unleashing my creative side a
 Explore my GitHub repositories to embark on a journey through my data-driven projects, where I leverage my coding expertise and creative spirit to solve real-world problems. 
 From predictive modeling to interactive visualizations, I'm constantly pushing the boundaries of what data can accomplish.
 
-### Let's Connect
+### Let's Connect!
 Join me in this exhilarating quest for knowledge, inspiration, and the boundless possibilities that data and creativity can offer. 
 Connect with me on LinkedIn or drop me an email. Let's collaborate and make our mark on the ever-evolving landscape of data-driven innovation!
 
