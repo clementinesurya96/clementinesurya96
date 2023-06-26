@@ -17,4 +17,5 @@ Join me in this exhilarating quest for knowledge, inspiration, and the boundless
 Connect with me on LinkedIn or drop me an email. Let's collaborate and make our mark on the ever-evolving landscape of data-driven innovation!
 
 📧 suryaclementine@outlook.com
+
 💼 LinkedIn: www.linkedin.com/in/clementine-surya
