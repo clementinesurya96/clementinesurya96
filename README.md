@@ -1,7 +1,7 @@
 ## Hello, fellow explorers! 👋 
 I'm Clementine, a data enthusiast on a thrilling journey through the realms of code, creativity, and capturing captivating moments. Join me as I combine the power of data with my love for visuals.
 
-I use R, Python, and SAS for data analysis, visualization, and machine learning.
+I primarily utilize R for my data analysis, visualization, and machine learning tasks. Additionally, I also work with Python and SAS for these purposes.
 
 When I'm not diving into datasets, you can find me unleashing my creative side and seeking inspiration from the world around me.
 - Photography 📸: Framing moments in time, freezing memories, and capturing the beauty of the world through my lens.
