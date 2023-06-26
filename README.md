@@ -1,4 +1,3 @@
-# Clementine Surya
 Hello, fellow explorers! 👋 I'm Clementine, a data enthusiast on a thrilling journey through the realms of code, creativity, and capturing captivating moments. Join me as I combine the power of data with my love for visuals.
 
 I use R, Python, and SAS for data analysis, visualization, and machine learning.
