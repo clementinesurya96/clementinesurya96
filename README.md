@@ -4,9 +4,9 @@ I'm Clementine, a data enthusiast on a thrilling journey through the realms of c
 I primarily utilize R for my data analysis, visualization, and machine learning tasks. Additionally, I also work with Python and SAS for these purposes.
 
 When I'm not diving into datasets, you can find me unleashing my creative side and seeking inspiration from the world around me.
-- Photography 📸: Framing moments in time, freezing memories, and capturing the beauty of the world through my lens.
-- Videography 🎥: Bringing stories to life through cinematic storytelling and captivating visuals.
-- Travelling ✈️: Exploring new landscapes, cultures, and cuisines, and embracing the exhilarating thrill of stepping into the unknown.
+- Photography 📸
+- Videography 🎥
+- Travelling ✈️
 
 ### Projects & Contributions
 Explore my GitHub repositories to embark on a journey through my data-driven projects, where I leverage my coding expertise and creative spirit to solve real-world problems. 
